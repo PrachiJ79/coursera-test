@@ -1,4 +1,4 @@
-/* Base Styles */
+
 
 * {
 	box-sizing: border-box;
@@ -52,7 +52,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #000022;
 }
 
 #beef {
@@ -66,7 +66,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: #000011;
 }
 
 #sushi {
@@ -79,7 +79,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: #000033;
 	color: white;
 	padding: 5px;
 }
